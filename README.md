@@ -1,4 +1,4 @@
-# Raspberry-Pi-Live-Backup  
+# Raspberry Pi Live Backup  
   
 This is a simple bash script to create a live backup of your Raspberry Pi SD card.  
 I have also included basic instructions for setting up a CRON job for automated backups.  
